@@ -1,0 +1,20 @@
+{
+  "name": "vuex-hook",
+  "version": "1.0.1",
+  "description": "补充vuex中没有实现的hook，用于在setup中映射仓库数据",
+  "main": "index.ts",
+  "keywords": [
+    "vuex",
+    "hook",
+    "hooks",
+    "setup",
+    "vue",
+    "vue3"
+  ],
+  "author": "郭明智 <g849659261@163.com>",
+  "license": "ISC",
+  "dependencies": {
+    "vue": "^3.2.45",
+    "vuex": "^4.1.0"
+  }
+}
